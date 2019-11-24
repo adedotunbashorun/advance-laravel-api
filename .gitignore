@@ -3,7 +3,7 @@
 /public/storage
 /config/pennylender
 /Modules/Loans
-/Modules/Core/Services/Utilities/Gemini
+/Modules/Core/Services/Utilities/Gemini.php
 /Modules/Core/Services/Utilities/GeminiLoanService
 # /storage/*.key
 /vendor
@@ -14,3 +14,4 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/Procfile
