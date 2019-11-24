@@ -3,8 +3,6 @@
 /public/storage
 /config/pennylender
 /Modules/Loans
-/Modules/Core/Services/Utilities/Gemini.php
-/Modules/Core/Services/Utilities/GeminiLoanService
 # /storage/*.key
 /vendor
 # .env
