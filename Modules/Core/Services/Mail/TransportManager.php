@@ -37,8 +37,8 @@ class TransportManager extends \Illuminate\Mail\TransportManager {
 
         $this->app['config']['services'] = [
             'mailgun' => [
-                'domain' => 'mail.pennylender.com',
-                'secret' => 'key-a219f60c6e59c8b5772b5a5298db229a',
+                'domain' => '',
+                'secret' => '',
             ],
         ];
     }
